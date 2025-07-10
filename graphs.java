@@ -12,7 +12,7 @@ for(int i[] : edges){
   list.get(u).add(v);
 }
 
-// This code is to convert edges array to ArrayList of graph pattern for a directed graph
+// This code is to convert edges array to ArrayList of graph pattern for a undirected graph
 
 List<List<Integer>> list = new ArrayList<>();
 
